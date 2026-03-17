@@ -12,5 +12,5 @@ Maior idade ou Menor idade
 Positivo ou Negativo  
 <img width="774" height="723" alt="image" src="https://github.com/user-attachments/assets/08b5799a-451d-441d-9fcd-0f55b03d16e1" />
 
-Media   
+Como conseguir a Média   
 <img width="199" height="797" alt="image" src="https://github.com/user-attachments/assets/9346028d-d058-4249-9d78-e1dc73802228" />
